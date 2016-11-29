@@ -1,0 +1,2 @@
+# szkopy
+szkolenie python
